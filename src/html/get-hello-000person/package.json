@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-hello-000person",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
